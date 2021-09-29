@@ -16,10 +16,13 @@ Shell file을 이용하여 한번에 오류를 해결 할 수 있습니다.
 1. 터미널 창을 열고 Git-clone을 통해 shell file을 다운받습니다.  
   - `git clone https://github.com/Taeyoung96/Solving-ubuntu-frontend-lock.git`  
 
-2. Shell file에 권한을 부여합니다.  
+2. 다운받은 폴더 안으로 이동합니다.  
+  - `cd Solving-ubuntu-frontend-lock`  
+
+3. Shell file에 권한을 부여합니다.  
   - `chmod +x solving-frontend-lock.sh`  
 
-3. Shell file을 실행시킵니다.  
+4. Shell file을 실행시킵니다.  
   - `./solving-frontend-lock`  
 
 ## Reference  
